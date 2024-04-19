@@ -4,7 +4,7 @@ Learning Machines Workshop -- hands-on technical activities (modified for virtua
 
 
 # Installation 
-- (1) Install Conda [Here]([https://pages.github.com/](https://conda.io/projects/conda/en/latest/index.html). 
+- (1) Install Conda [Here](https://conda.io/projects/conda/en/latest/index.html). 
 
 - (2) Create Conda Environment
   
